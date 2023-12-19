@@ -9,3 +9,5 @@ Este repositório foi criado para o **treinamento** de versionamento da GED.
 |Marcela|Alumínio|DEV|
 |Clayton|Alumínio|DEV|
 |Sander|Mairinque|DEV|
+
+> Teste de destaque
